@@ -208,7 +208,7 @@ Two types of dependencies in Maven
 I made this mnemonic to quickly recollect the scopes for a dependency
 -	**SIT CPR**
 	-	I give this assistive example to my mentees so it is easy to recollect the dependency scopes
-		-	***S**tart **I**immediately **T**he **CPR** to this person*
+		-	***S**tart **I**mmediately **T**he **CPR** for this person*
 		-	Or, ***SIT** we will watch the **CPR** demo*
 
 ![Maven Dependency Scopes](https://user-images.githubusercontent.com/9585769/213812607-f21f8ab8-bf63-4211-b0a6-825948818a77.png "Maven Dependency Scopes")
