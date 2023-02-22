@@ -423,4 +423,6 @@ The most often commands that I use in context with Software Testing and Automati
 34. https://gist.github.com/testingGarage/f6ebc3ec82293bc36ae7a2f882164d5b
 35. https://gist.github.com/testingGarage/ea4586b0f8e40a5dd8b640e544c22c4a
 36. https://www.baeldung.com/maven-goals-phases
-37. https://stackoverflow.com/questions/11556170/how-to-invoke-maven-default-lifecycle
+37. https://stackoverflow.com/questions/11556170/how-to-invoke-maven-default-
+38. https://www.baeldung.com/maven-encoding
+39. https://www.baeldung.com/maven-plugin-management#plugin-configuration
